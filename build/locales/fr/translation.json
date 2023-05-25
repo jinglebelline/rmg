@@ -1,0 +1,446 @@
+{
+    "about":{
+        "title":"à propos de nous",
+        "about us":{
+            "title":"Qui sommes-nous?",
+            "desc":"RÉSIDENCE M.G est une entreprise qui vous aide à trouver des logements décents, confortables et adaptés à des prix abordables au Cameroun. Nous offrons à nos clients des services haut de gamme tels que la prise en charge à l'arrivée, le dépôt a la fin du séjour, la location de voitures et même la livraison de repas, afin de rendre leur séjour dans l'une de nos maison d'hôtes mémorable. Toute notre équipe travaille sans relâche dans le seul but de satisfaire chaque client qui vient à notre rencontre."
+        }
+        ,
+        "mission":{
+            "title":"notre mission",
+            "desc":"Pour aider nos clients, tant au Cameroun qu'à l'étranger, a obtenir facilement les meilleurs services d'hébergement qui leur permettent de se sentir chez eux pendant leur long ou court séjour dans les villes où nous sommes présent."
+        },
+        "vision":{
+            "title":"Notre Vision",
+            "desc":"Innover l'industrie de l'hébergement au Cameroun et dans toute l'Afrique en fournissant une assistance significative et un soutien de pointe aux utilisateurs des maisons d'hôtes."
+        }
+        
+    },
+    "search-result":"Résultats de votre recherche pour  ",
+    "no_search_result":"Désolé, aucun résultat trouvé",
+    "rmg_revs":"Avis sur Résidence M.G",
+    "explore":"Explorer",
+    "apartments":"Appartements",
+    "location":"Emplacement",
+    "list_property":"Publiez votre Logement",
+    "contact":"contact",
+    "log in":"Se connecter",
+    "sign up":"S'inscrire",
+    "find":"chercher",
+    "home":"Accueil",
+    "upload":"Ajouter un logement",
+    "myUploads":"Mes téléchargements",
+    "view profile":"Voir le profil",
+    "edit profile":"Editer le profil",
+    "profile":"Profil",
+    "editp":"Modifier le mot de passe",
+    "log out": "Se déconnecter",
+    "indexHeading":"Sentez-vous chez vous avec nous!",
+    "furnished apartments":"Appartements meublés",
+    "desirable locations":"Emplacements souhaitables",
+    "reasonable prices":"Des tarifs attractifs",
+    "choose your home":"Choisi ton logement",
+    "whybookwithus":"Pourquoi réserver avec nous?",
+    "Availability":{
+        "title":"Disponibilité",
+        "desc":"Nous aurons toujours un appartement meublé disponible pour vous chaque fois que vous visitez le Cameroun ou l'une de nos villes. Notre équipe engagée est à votre écoute pour répondre à vos besoins en tout temps."
+    },
+    "whatwedo":{
+        "title":"Ce que nous faisons",
+        "p1":"Prise en charge à l'arrivée",
+        "p2":"Dépôt à la fin du séjour ",
+        "p3":"Guide touristique dans la ville",
+        "p4":"Voitures de location",
+        "p5":"Livraison de nourriture",
+        "p6":"Nettoyage à sec"
+    },
+    "testimonials":{
+        "title":"Des clients satisfaits"
+        
+    },
+    "touristic sites":{
+        "nkongsamba":{
+            "title":"Chutes d’Ekom-Nkam",
+            "desc":"Les cascades à couper le souffle sont hautes de plus de 80 mètres (262 pieds). Ce site touristique a été utilisé pour la réalisation du film Tarzan en 1984"
+        },
+        "buea":{
+            "title":"Mont Fako",
+            "desc":"Le trésor volcanique actif est le plus haut sommet d'Afrique de l'Ouest et du Centre (4 040 mètres). Il abrite la course annuelle de l'espoir du Mont Cameroun."
+        },
+        "garoua":{
+            "title":"Parc National de Waza.",
+            "desc":"La destination de safari parfaite avec une belle végétation du Sahel et de la savane. Le parc abrite des éléphants, des hyènes, des gazelles, des guépards, des girafes, des lions et bien d'autres animaux."
+        }
+    },
+    "places to visit":"Lieux à visiter au Cameroun",
+    "terms_use":"Conditions d'utilisation",
+    "property_terms":"Termes de l'annonce immobilière",
+    "terms_policies":"Termes et Politiques",
+    "addr":"Yaoundé Omnisport (Opposite Amadou Ahidjo Stadium)",
+    "name":"Nom",
+    "email":"e-mail",
+    "telephone":"numéro de téléphone",
+    "fulln":"nom complet",
+    "usern":"Nom d'utilisateur",
+    "passw":" mot de passe",
+    "delacc":"Supprimer le compte",
+    "region":{
+        "title":"Région",
+        "desc":{
+          "Adamawa":"région d'Adamawa",
+          "Central":"région centrale",
+          "East":"région Est",
+          "Far North":"région de l'Extrême-Nord",
+          "Littoral":"région du Littorale",
+          "North":" région du Nord",
+          "North West":"région du Nord-Ouest",
+          "South West":"région du Sud-Ouest",
+          "West":"région Ouest",
+          "South":"région Sud"
+        }
+    },
+    "your":"votre",
+    "subject":"Sujet",
+    "message":"message",
+    "send":"envoyer",
+    "cu":"Contactez-Nous",
+    "rm":"Lire la suite",
+   
+    "choose":{
+        "reg":"choisissez une région",
+        "ct":"Choisissez une ville",
+        "loc":" location",
+        "rooms":"Nombre de chambres",
+        "toilets":"Nombre de toilettes",
+        "balconies":"Nombre de balcons:",
+        "bedrooms":"Nombre de chambre de nuit",
+        "livrooms":"Nombre de salles de séjour",
+        "guests":"Nombre maximum d'invités autorisé",        
+        "htype":"Type de maison",
+        "warn":"Vous devez être le propriétaire du logement ou vous devez être autorisé par le propriétaire avant d'inscrire le logement sur ce site.",
+        "i own":"Je suis le propriétaire du logement",
+        "permitted":"J'ai été autorisé par le propriétaire du logement",
+        "type":"Quel type de logement voulez-vous publier?",
+        "address":"Adresse(Décrivez l'emplacement exact de votre logement)",
+        "select facilities":"Sélectionnez les installations disponibles",
+        "select rules":"Règles de la maison",
+        "description":"Dites à vos clients quelques-unes des choses intéressantes qu'ils peuvent trouver s'ils réservent et séjournent dans votre logement",
+        "desc_title":"Décrire le quartier",
+        "pricing":"Tarification",
+        "price":"Combien facturez-vous par nuit (FCFA) ?",
+        "disc_price":"Quel est votre prix réduit si le client veut payer pour une semaine (ou plus)?",
+        "next":"Suivant",
+        "prev":"Précédent",
+        "choose":"choisir ci-dessous",
+        "location":"Où se trouve votre logement ?",
+        "amt":"Montant par nuit (FCFA)",
+        "success":"Success",
+        "add":"Ajouter une autre propriété",
+        "img_subh":"Téléchargez des photos de bonne qualité de votre propriété",
+        "imgs_desc":"Téléchargez au moins 6 photos et un maximum de 12:",
+        "imgs":"Autres photos : ",
+        "mainImg":"Photo principale de votre propriété ",
+        "mainImg_desc":"Cette photo sera la première image que les clients verront de votre propriété:",
+        "submit":"envoyer",
+        "yes":"Qui",
+        "no":"Non",
+        "ln":"numéro de propriétaire",
+    
+        "typeGHouse":"type de maison d'hôtes",
+        "facilities":{
+            "air conditioner":"climatiseur",
+            "gym":"Salle de sport",
+            "bathtub":"Baignoire",
+            "hot water":"Eau chaude ",
+            "wifi":"Wi-Fi",
+            "constant water supply":"Approvisionnement d'eau",
+            "standby generator":"Groupe de secours",
+            "Washing machine":"Machine à laver(+ sèche linge)",
+            "swimming pool":"Piscine ",
+            "flat-screen TV":"TV à écran plat",
+            "decoder":"Décodeur" ,
+            "netFlix":"NetFlix",
+            "fire alarm":"Alarme d'incendie",
+            "parking space":"Parc de stationnement",
+            "video surveillance camera":"Caméra de vidéo surveillance",
+            "security guard":"Agent de sécurité"
+         },
+         "rules":{
+            "smoking":"Il est autorisé de fumeur?",
+            "pets":"Animaux de compagnie permis?",
+            "children":"Enfants autorisés?",
+            "events":"Fêtes/événements autorisés",
+            "caution deposit":"Caution Remboursement"
+         },
+         "successful":{
+            "heading":" Félicitations ",
+            "p":"Félicitations Vous avez terminé avec succès la publication de votre logement. Votre logement sera disponible pour les clients après vérification. ",
+            "op_1":"Ajouter un autre appartement",
+            "op_2":"Montrez-moi mes appartements"
+        }
+    },
+    "uploads":{
+        "ref":"ref",
+        "city":"ville",
+        "type":"la catégorie",
+        "showmr":"des détails",
+        "edit":"Éditer",
+        "furnished":"appartement meublé",
+        "parking":"Le Parking",
+        "pub":"publié",
+        "details":{
+            "title":"product description",
+            "addr":"le Quartier",
+            "price":"le prix",
+            "properties":"Propriétés",
+            "description":"description",
+            "details": "des détails",
+            "disc_price":"Prix réduit",
+            "ln":" le numéro du propriétaire"
+
+        },
+        "status":"la situation",
+        "edst":" Edit Status for house",
+        "rules":{
+            "title":"Règles de la maison",
+            "smoking":"Fumeur",
+            "pets":"Animaux de compagnie",
+            "children":" Enfants",
+            "events":"Fêtes/événements",
+            "caution deposit":"Caution Remboursable"
+        }
+    },
+    "close":"Fermer",
+    "edit":"Éditer",
+    "update":"modifier",
+    "cancel":"Annuler",
+    "del":"effacEditer le profiler",
+    "delh":"supprimer la maison",
+    "editpr":"edit profile",
+    "editpw":"modifier le mot de passe",
+    "delAcc":"Supprimer le compte",
+    "vpro":"Voir le profil",
+    "oldp":"ancien mot de passe",
+    "newp":"nouveau mot de passe",
+   
+    "htype":{
+        
+        "apartment":"Appartement",
+        "room":"Une chambre à coucher",    
+        "duplex/villa":"Duplex/Villa",
+        "studio":"Studio"
+        
+    },
+    "t&c":{
+        "heading":"CONDITIONS GENERALES D'UTILISATION DE RESIDENCE M.G",
+        "p1":"Ce document est rédigé pour s'assurer qu'il y a une compréhension claire entre les propriétaires des logements meublés et Residence M.G. ",
+        "p2":"Résidence M.G dispose d'une base de données et d'un vaste réseau de clients de qualité résidant à l'étranger et au Cameroun pour aider chaque propriétaire desdits logements à trouver les bons clients pour leur entreprise.",
+        "p3":"La satisfaction et la sécurité des clients sont les éléments les plus importants pour nous. Nous fournissons de la qualité à nos clients et, par conséquent, nous sommes très prudents quant au type de personnes (entreprises) avec lesquelles nous travaillons en partenariat.",
+        "sec1":{
+            "subh":"Exigences du Partenariat",
+            "li":{
+                "li1":"Il est de la responsabilité du propriétaire/gestionnaire de la propriété de s'assurer qu'il y a une sécurité adéquate pour chaque client qui lui est fourni par le réseau de résidence M.G.",
+                "li2":"Les images, l'emplacement et toutes les informations fournies par le propriétaire/gestionnaire de la propriété sur la plateforme Residence M.G doivent être une représentation fidèle de ce qui existe.",
+                "li3":"Les clients doivent être traités avec respect, égalité et l'utilisation d'un langage offensant ou non professionnel n'est pas acceptable.",
+                "li4":"Le propriétaire/gérant doit accepter qu'un représentant de Residence M.G vérifie la propriété pour s'assurer qu'elle est en bon état avant l'hébergement de tout client.",
+                "li5":"Residence M.G est autorisée à utiliser les informations fournies par le propriétaire/gestionnaire de la propriété à des fins marketing. (Il s'agit des informations telles que les images et l'emplacement de la propriété, les services offerts, etc.) ",
+                "li6":"Les paiements sont effectués par l'intermédiaire de Residence M.G ou directement au propriétaire/gestionnaire de la propriété selon ce qui est le plus pratique pour le client. ",
+                "li7":"Vous acceptez de répondre rapidement aux clients et à Residence M.G. pour faciliter la transaction.",
+                "li8":"Vous acceptez de respecter toutes les exigences présentées ci-dessus.."
+            }
+        },
+        "sec2":{
+            "subh":"Politique de Fixation des Prix",
+            "p1":"Nous reconnaissons que le prix par nuit de chaque propriété est déterminé par le propriétaire/gestionnaire de la propriété. Toutefois, le propriétaire/gérant doit s'assurer que les prix de sa propriété sont raisonnables.",
+            "p2":"La négociation entre les clients et le propriétaire/gestionnaire de la propriété est acceptée et Residence M.G est autorisée à aider le processus si nécessaire. "
+
+        },
+        "sec3":{
+            "subh":"Avantages pour Residence M.G",
+            "p1":"Étant donné qu'il n'y a pas de prix fixe de la propriété sur la plateforme Residence M.G et vue la possibilité d'autoriser Residence M.G à mener une négociation, le bénéfice de Résidence M.G sera déterminé entre lui et le propriétaire de la propriété au terme de chaque transaction conclue avec succès. "
+        },
+        "sec4":{
+            "subh":"La Valeur Ajoutee pour le Partenaire",
+            "p1":"Si vous vous associez à nous, vous obtiendrez automatiquement les avantages suivants.",
+            "li":{
+                "li1":"Plus de clients de qualité pour réserver et utiliser votre propriété",
+                "li2":"La publicité et l'exposition de votre propriété sur le marché en permanence.",
+                "li3":"Des commentaires pour vous donner une connaissance approfondie de votre propriété pour l'amélioration ",
+                "li4":"Des recommandations des clients fidèles à leur réseau pour la réservation. "
+
+            }
+
+        },
+        "sec5":{
+            "subh":"Contentieux et Reglement des Litiges",
+            "p1":" La formulation, l'interprétation et l'exécution du présent Accord et de tout litige en découlant seront régies par les lois de fond et de procédure du Cameroun sans égard à ses règles sur les conflits ou le choix de la loi et, dans la mesure applicable, les lois du Cameroun. La compétence exclusive et le lieu des actions liées à l'objet des présentes seront les tribunaux situés au Cameroun, et vous vous soumettez par la présente à la compétence personnelle de ces tribunaux. Vous renoncez par la présente à tout droit à un procès devant jury dans toute procédure découlant ou liée au présent Accord. La Convention des Nations Unies sur les contrats de vente internationale de marchandises ne s’applique pas au présent Accord."
+        }
+        
+        
+    },
+    "aggr":"Je suis d'accord avec le",
+    "admins":"admins",
+    "users":"users",
+    "add+":"ajouter un administrateur",
+    "allh":"toutes les maisons",
+    "edits":"modifier le statut",
+    
+    "nuy":"pas encore de mises en ligne.",
+    "upl":"je veux télécharger",
+    "lg":{
+        "na":"N'avez pas encore de compte ?",
+        "fp":"j'ai oublié mon mot de passe",
+        "acc":"Avez vous déjà un compte?"
+    },
+    "admin":{
+        "hs":"Toutes les maisons",
+        "urs":"tous les utilisateurs",
+        "adms":"tous les administrateurs",
+        "add":"ajouter un nouvel administrateur"
+    },
+    "sf":{
+
+    },
+    "search":{
+        "fh":"Trouver des maisons à louer",
+        "nxt":"Suivante",
+        "prev":"Précédente",
+        "sr":"Résultats de recherche",
+        "nrf":"Pas de résultat",
+        "cts":"Cliquez ici pour rechercher à nouveau"
+    },
+    "serv":"Nous sommes à votre service",
+    "ah":"Soumettre",
+    "fgh":"Trouver des chambres d'hôtes",
+    "llord":"propriétaire",
+    "onlyif":"images (uniquement si nécessaire)",
+    "showpass":"Montrer le Mot de Passe",
+    "thxs":"Merci pour votre message. Nous vous répondrons sous peu",
+    "acm":"Message de confirmation de compte",
+    "acmt":"Vous avez confirmé avec succès votre compte à la Résidence MG",
+    "lpbtn":"Aller à la page de connexion",
+    "prmc":"Message de confirmation de récupération de mot de passe",
+    "pcmt":"Vous avez créé avec succès un nouveau mot de passe à la Résidence MG",
+    "actnm":"Message de création de compte",
+    "actnm1":"En quelques minutes, un courriel de confirmation sera envoyé à",
+    "actnm2":"Veuillez vérifier votre boîte de réception afin de confirmer ce compte. ",
+    "prmt":"avec des instructions sur la façon de récupérer votre mot de passe",
+    "pserr":"le mot de passe doit contenir au moins un chiffre et une lettre majuscule et minuscule, et au moins 8 caractères ou plus",
+    "unErr":"Nom d'utilisateur déjà pris. merci d'en utiliser un autre",
+    "phErr":"numéro de téléphone déjà pris. merci d'en utiliser un autre",
+    "emErr":"Adresse e-mail déjà prise. merci d'en utiliser un autre",
+    "filterBy":"Filtrer par Ville:",
+    "chooseBelow":"Sélectionnez ci-dessous",
+    "filter":"Filtrer",
+    "clearF":"Effacer le Filtre",
+    "ghouses":"Chambres d'hôtes",
+    "noGhouses":"Pas encore de chambres d'hôtes.",
+    "click":"Cliquez ici",
+    "classic":"classique",
+    "editHouse":{
+        "h1":"Modifier la Maison avec ID:",
+        "warn1":"NB: Les modifications d'image ne sont pas obligatoires"
+    },
+    "ask2DropHouse":"Voulez-vous supprimer la maison avec le numéro d'identification",
+    "yes":"Qui",
+    "no":"Non",
+    "reserveP":{
+        "name":"Nom",
+        "whatsapp number":"numéro Whatsapp ",
+        "book":"Réservez cette maison",
+        "mheading":"Faire une réservation pour House with Id: ",
+        "subh":"Toutes les maisons d'hôtes Residence M.G sont correctement vérifiées et sécurisées. Dans chacune de nos maisons d'hôtes, vous bénéficierez de services supplémentaires de qualité nécessaires à votre séjour.Remplissez le formulaire pour réserver votre chambre d'hôtes.",
+        "formh":"Remplissez le formulaire pour réserver votre chambre d'hôtes",
+        "checkin":"Date d'arrivée",
+        "checkout":"Date de départ",
+        "time":"Heure d'enregistrement",
+        "telephone":" Indiquez un contact de préférence un numéro de téléphone WhatsApp.",
+        "other":" Demande spéciale(Nous ferons de notre mieux pour satisfaire votre demande. Sans quoi, vous serez informé (e) avant votre arrivée)",
+        "send":"Soumettre",
+        "confirm":"Réservation réussie. Vous recevrez bientôt une notification",
+        "err":"Une erreur s'est produite. Veuillez réessayer",
+        "number of guests":"nombre de personnes",
+        "country":"pays",
+        "success":"Réservation réussie! Après une nouvelle vérification, vous serez contacté dans un délai maximum de 1 heure pour finaliser votre réservation."
+
+    },
+    "clearFilter":"Effacer le filtre",
+    "house dtails":{
+        "price":"Le Prix ",
+        "per nite":"Par Nuit",
+        "type":"Le type",
+        "address":"l'adresse",
+        "facilities":" Les installations ",
+        "not allowed":"Pas Permis",
+        "description":"Description",
+        "book now":"Réservez Maintenant"
+    },
+    "new review":{
+        "name":"Nom",
+        "country":"pays",
+        "heading":"Laissez Vous un Commentaire!",
+        "message":"Message",
+        "rating":"Votre Evaluation",
+        "submit":"Envoyer",
+        "good resp":"merci de votre réponse,",
+        "server err":"vous ne pouvez pas écrire un avis deux fois",
+        "bad resp":"une erreur est survenue. Veuillez réessayer",
+        "rate":"veuillez nous donner une note",
+        "bad email":" e-mail non valide!",
+        "reviews":"Avis clients"
+    },
+    "news":{
+        "title":"Actualités",
+        "others":"Vous aimerez aussi"
+    },    
+    "feedback":"RETOUR D'EXPÉRIENCE",
+    "signup":{
+        "title":"Publiez Votre Logement",
+        "p1":"Nous sommes la plateforme la plus fiable pour vous apporter, des clients de qualité, partout au Cameroun et à l'étranger. Ce processus est gratuit et prendra moins de 23 minutes.",
+        "get_started":" Commencer",
+        "p2":"Créez un compte personnel pour votre logement",
+        "telephone":"Téléphone : (De préférence un numéro WhatsApp)"
+    },
+    "search by city":"Recherchez votre logement par ville",
+    "log_cred_err":" Email/Password Incorrect",
+    "resetp":{
+        "title":"Mot de passe oublié? Entrez votre adresse courriel ci-dessous",
+        "placeholder":"Adresse mail ici",
+        "no email":"Compte avec cet e-mail n’existe pas"
+    },
+    "drop_question":"Confirmez ci-dessous si vous souhaitez supprimer cet appartement avec Id ",
+    "settings":{
+        "edit_img":"Modifier votre image ci-dessous (Votre image sera affichée publiquement avec vos propriétés)",
+        "change_password":" Modifier votre mot de passe ",
+        "description":"Votre Description(Remarque : Cela sera également affiché à côté de vos propriétés):",
+        "placeholder":"Dites à vos clients qu’il y a quelque chose de prometteur. p. ex., je m’assurerai d’avoir une expérience unique",
+        "change_image":"cliquez sur l’image ou cliquez ici pour modifier l’image",
+        "pass_err":"L’ancien mot de passe est incorrect",
+        "img_desc":"NB : Une image de photo suffira (Une photo de photo est une image qui montre juste votre tête à votre"
+
+    },
+    "filterby":{
+        "city":"Ville"
+    },
+    "session_exp":"Votre session est expirée. Vous devez vous connecter à nouveau",
+    "by":"Posté par",
+    "net_err":"Erreur réseau. Actualiser cette page",
+    "err":{
+        
+        "net_err":"Une erreur réseau s’est produite.",
+        "what_should_i_do":"Que dois-je faire?",
+        "do_1":"Si vous avez ouvert une page, vous pouvez cliquer sur le bouton Actualiser ci-dessous pour l’actualiser.",
+        "do_2":"Si vous avez cliqué sur un bouton, vous pouvez cliquer sur le bouton Fermer ci-dessous pour fermer cette fenêtre modale et essayer",
+        "refresh":"Rafraîchir ",
+        "dismiss":"Fermer"
+        },
+    "account":"Mon Compte",
+    "set_profile_warn":{
+        "title":"Votre profil n’est pas complet",
+        "desc":"Vous devez vous assurer que votre photo de profil et la description sont définis.Les deux seront affichés à côté de votre propriété pour que les clients puissent les voir. ",
+        "go_edit":"Amenez-moi aux réglages"
+    }
+
+    }
+
+  

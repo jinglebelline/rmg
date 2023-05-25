@@ -1,0 +1,447 @@
+{
+    "about":{
+        "title":"About",
+        "about us":{
+            "title":"About us",
+            "desc":"RESIDENCE M.G is a company that helps you to find decent, comfortable and suiting accommodations at affordable prices in Cameroon. We offer our clients premium services such as pick-up upon arrival, drop-off for departure, car rentals, and even food delivery, to make their stay at any of our guesthouses memorable. Our entire team works tirelessly for the sole purpose of satisfying every client that comes our way."
+        }
+        ,
+        "mission":{
+            "title":"our mission",
+            "desc":"To assist our clients, both in Cameroon and abroad, easily get the best accommodation services which make them feel at home during their long or short stay in the cities where we’re present."
+        },
+        "vision":{
+            "title":"Our Vission",
+            "desc":"Revamp the accommodation industry in Cameroon and across Africa by providing meaningful assistance and state-of-the-art support to users of guesthouses."
+        }
+    },
+    "search-result":"Your Search Result for ",
+    "no_search_result":"Sorry, No result found",
+    "rmg_revs":"Residence M.G reviews",    
+    "explore":"Explore",
+    "apartments":"Apartments",
+    "location":"Location",
+    "list_property":"List your property",
+    "contact":"Contact Us",
+    "log in":"Log in",
+    "sign up":"sign up",
+    "find":"Search",
+    "home":"Home",
+    "upload":"Upload",
+    "myUploads":"My Uploads",
+    "view profile":"view profile",
+    "edit profile":"Edit profile",
+    "profile":"Profile",
+    "editp":"Edit Password",
+    "log out": "log out",
+    "indexHeading":"Feel at home with us!",
+    "furnished apartments":"Furnished Apartments",
+    "desirable locations":"Desirable Locations",
+    "reasonable prices":"Reasonable Prices",
+    "choose your home":"Choose your home",
+    "whybookwithus":"Why book with us?",
+    "Availability":{
+        "title":"Availability",
+        "desc":"We will always have an available furnished apartment for you whenever you visit Cameroon or any of our cities. Our committed team is on call to meet your needs at all times."
+    },
+    "whatwedo":{
+        "title":"What we do",
+        "p1":"Pick-up upon arrival",
+        "p2":"Drop-off after checkout",
+        "p3":"Tour guide in the city",
+        "p4":"Car rentals",
+        "p5":"Food delivery",
+        "p6":"Dry cleaning"
+    },
+    "testimonials":{
+        "title":"Some satisfied clients"
+    },
+    "touristic sites":{
+        "nkongsamba":{
+            "title":"Ekom-Nkam Falls",
+            "desc":"The breathtaking waterfalls are over 80 meters (262 feet) high. They were used in a Tarzan movie in 1984."
+        },
+        "buea":{
+            "title":"Mount Fako",
+            "desc":"The active volcano treasure is the highest peak in West and Central Africa (4,040 meters). It is home to the annual Mount Cameroon Race of Hope"
+        },
+        "garoua":{
+            "title":"Waza National Park",
+            "desc":"The perfect safari destination with beautiful Sahel and savanna vegetation. The park is home to elephants, hyenas, gazelles, cheetahs, giraffes, lions and many other animals"
+        }
+    },
+    "places to visit":"Places to visit in Cameroon",
+    "terms_use":"Terms of use",
+    "property_terms":"Property listing terms",
+    "terms_policies":"Terms And Policies",
+    "addr":"Yaoundé Omnisport (Opposite Amadou Ahidjo Stadium)",
+    "name":"name",
+    "email":"email",
+    "telephone":"telephone number",
+    "fulln":"full name",
+    "usern":"username",
+    "passw":"password",
+    "delacc":"delete account",
+    "region":{
+        "title":"region",
+        "desc":{
+          "Adamawa":"Adamawa Region",
+          "Central":"Central Region",
+          "East":"East Region",
+          "Far North":"Far North Region",
+          "Littoral":"Littoral Region",
+          "North":"North Region",
+          "North West":"North West Region",
+          "South West":"South West Region",
+          "West":"West Region",
+          "South":"South Region"
+        }
+    },
+
+    "your":"your",
+    "subject":"subject",
+    "message":"message",
+    "send":"send",
+    "cu":"Contact Us",
+    "rm":"read more",
+    
+    "choose":{
+        "reg":"choose a region",
+        "ct":"Choose a city",
+        "loc":"type location",
+        "rooms":"Number of rooms",
+        "toilets":"Number of toilets",
+        "balconies":"Number of balconies",
+        "bedrooms":"Number of bedrooms",
+        "livrooms":"Number of Living Rooms",
+        "guests":"Maximum number of guests allowed",
+        "htype":"Type of house",
+        "warn":"You must be the owner of the property or you must be authorized by the owner before listing the property on this site.",
+        "i own":"I am the owner of this property",
+        "permitted":"I have been authorized by the owner of this property",
+        "type":"What type of property do you want to list?",
+        "address":"Address(Describe the exact location of your property)",
+        "select facilities":"Select the available facilities",
+        "select rules":"House Rules?",
+        "description":"Tell your guests some of the interesting things they can find if they book and stay on your property.",
+        "desc_title":"Describe the neighbourhood",
+        "pricing":"Pricing",
+        "price":"How much do you charge per night (FCFA)?",
+        "disc_price":"What is your discounted price if the client wants to pay for a week (or more)?",
+        "next":"next",
+        "prev":"Previous",
+        "choose":"choose below",
+        "location":"Where is your property located?",
+        "amt":"Amount Per Night (FCFA)",
+       "success":"Success",
+       "add":"Add another Property",
+       "img_subh":"Upload good quality photos of your property",
+        "imgs":"Other photos",
+        "imgs_desc":"Upload at least 6 photos and a maximum of 12",
+        "mainImg":"Main photo of your property",
+        "mainImg_desc":"This photo will be the first image guests see of your property",
+        "submit":"submit",
+        "yes":"yes",
+        "no":"no",
+        "ln":"Landlord's number",
+        
+        "typeGHouse":"type of  guest house",
+        "facilities":{
+            "air conditioner":"Air Conditioner",
+            "gym":"gym",
+            "bathtub":"Bathtub",
+            "hot water":"Hot water",
+            "wifi":"Wi-Fi",
+            "constant water supply":"Constant water supply",
+            "standby generator":"Standby generator",
+            "Washing machine":"Washing machine",
+            "swimming pool":"Swimming pool",
+            "flat-screen TV":"Flat-screen TV",
+            "decoder":"Decoder" ,
+            "netFlix":"NetFlix",
+            "fire alarm":"Fire alarm",
+            "parking space":"Parking space",
+            "video surveillance camera":"Video surveillance camera",
+            "security guard":"Security guard"
+         },
+         "rules":{
+            
+            "smoking":"Smoking allowed?",
+            "pets":"Pets allowed?",
+            "children":"Children allowed?",
+            "events":"Parties/events allowed? ",
+            "caution deposit":"Refundable caution deposit?"
+         },
+         "successful":{
+            "heading":"Congratulations",
+            "p":"Congratulations. You have successfully completed the listing of your property. Your property will be available to clients after verification. ",
+            "op_1":"Add another property",
+            "op_2":"Show me my properties"
+        }
+
+    },
+    
+    "uploads":{
+        "ref":"ref",
+        "city":"city",
+        "type":"type",
+        "showmr":"details",
+        "edit":"edit",
+        "furnished":"furnished",
+        "parking":" Parking",
+        "pub":"published",
+        "details":{
+            "title":"product description",
+            "addr":"Quarter",
+            "price":"price",
+            "properties":"properties",
+            "description":"description",
+            "details": "details",
+            "disc_price":"Discount price",
+            "ln":"Landlord's number"
+
+        },
+        "status": "status",
+        "edst":"Modifier le statut de la maison",
+        "rules":{
+            "title":"House Rules",
+            "smoking":"smoking",
+            "pets":"pets",
+            "children":"children",
+            "events":"events/parties",
+            "caution deposit":"Refundable caution deposit"
+         } 
+    },
+    "close":"close",
+    "edit":"edit",
+    "update":"update",
+    "cancel":"cancel",
+    "del":"delete",
+    "delh":"Delete House",
+    "editpr":"edit profile",
+    "editpw":"edit password",
+    "delAcc":"delete account",
+    "vpro":"view profile",
+    "oldp":"Your Old Password",
+    "newp":"Your New password",
+   
+    "htype":{
+        
+        "apartment":"Apartment",
+        "room":"Room",
+        "duplex/villa":"Duplex/Villa",
+        "studio":"Studio"
+        
+    },
+    "t&c":{
+        "heading":"RESIDENCE M.G TERMS OF USE DOCUMENT",
+        "p1":"This document is drafted to ensure there is a clear understanding between property owners and Residence M.G. ",
+        "p2":"Residence M.G has an established data base of quality clients and a broad network both abroad and in Cameroon to help every guesthouse/furnished apartment owner find the right clients for their business. Client satisfaction and client safety are the most important components for us.",
+        "p3":" We provide quality to our clients and therefore we are very cautious about the kind of people (businesses) we partner with.",
+        "sec1":{
+            "subh":"Partnership Requirements",
+            "li":{
+                "li1":"It is the responsibility of the property owner/manager to ensure there is proper security for every client provided to them through the Residence M.G network. ",
+                "li2":"The images, location and every information provided by the property owner/manager on Residence M.G must be a true representation of what exist. ",
+                "li3":"Clients must be treated with respect, equality and the use of offensive/unprofessional language is not acceptable.",
+                "li4":"The property owner/manager must accept to have a Residence M.G representative check the property to ensure it is in good condition prior to the lodging of any client.",
+                "li5":"Residence M.G is granted permission to use information provided by the guesthouse/ furnished apartment owner/manager for marketing. (This information include images, location, services etc.)",
+                "li6":"Payments is made through Residence M.G or directly to the property owner/manager depending on which is most convenient for the client. ",
+                "li7":"You agree to respond to clients and Residence M.G promptly to ease transaction.",
+                "li8":"You agree to respect all the requirements presented above."
+            }
+        },
+        "sec2":{
+            "subh":"Pricing policy",
+            "p1":"We acknowledge that the price per night of every property is determined by the property owner/manager. However, the property owner/manager must ensure that the prices of their property are reasonable. ",
+            "p2":"Negotiation between clients and property owner/manager is accepted and Residence M.G is permitted to aid the process if need be."
+
+        },
+        "sec3":{
+            "subh":"Benefits",
+            "p1":"Given that there is no fixed price of the property on Residence M.G and with the possibility permitted by Residence M.G for negotiation, Residence M. G’s profit will be determined between Residence M.G and the property owner at the close of every successful deal."
+        },
+        "sec4":{
+            "subh":"Added value",
+            "p1":"Should you partner with us, you will get the following benefits automatically.",
+            "li":{
+                "li1":"More quality clients to book and use your property.",
+                "li2":"Continues advertisement and exposure of your property in the market.",
+                "li3":"Reviews to give you an in-depth knowledge about your property for improvement. ",
+                "li4":"Recommendations from loyal customers to their network for booking. "
+
+            }
+
+        },
+        "sec5":{
+            "subh":"Dispute resolution",
+            "p1":"The formation, interpretation, and performance of this Agreement and any disputes arising out of it shall be governed by the substantive and procedural laws of Cameroon without regard to its rules on conflicts or choice of law and, to the extent applicable, the laws of Cameroon. The exclusive jurisdiction and venue for actions related to the subject matter hereof shall be the courts located in Cameroon, and you hereby submit to the personal jurisdiction of such courts. You hereby waive any right to a jury trial in any proceeding arising out of or related to this Agreement. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement."
+        }
+        
+        
+    },
+    "aggr":"I Agree to the",
+    "maggr":"You must agree before submitting.",
+    "admins":"admins",
+    "users":"users",
+    "add+":"add admin",
+    "allh":"all houses",
+    "edits":"edit status",
+    
+    "nuy":"no uploads yet.",
+    "upl":"i want to upload",
+    "lg":{
+        "na":"Don't yet have an account ?",
+        "fp":"Forgot your password ?",
+        "acc":"Already have an account?"
+    },
+    "admin":{
+        "hs":"All houses",
+        "urs":"Users",
+        "adms":"Admins",
+        "add":"Add new admin"
+    },
+    "search":{
+        "fh":"Find Houses for Rent",
+        "nxt":"Next",
+        "prev":"Previous",
+        "sr":"Search Results",
+        "nrf":"No Result Found",
+        "cts":"Click Here To Search Again"
+    },
+    "change":{
+        
+    },
+    "serv":"We are at your service",
+    "ah":"Submit",
+    "fgh":"Find Guest Houses",
+    "llord":"landlord",
+    "onlyif":"images (only if needed)",
+    "showpass":"Show Password",
+    "thxs":"thank you for your message. We will Reply you shortly.",
+    "acm":"Account Confirmation Message",
+    "acmt":"You have successfully confirmed you account at Residence MG",
+    "lpbtn":"Go to login page",
+    "prmc":"Password Recovery Confirmation Message",
+    "pcmt":"You have successfully created a new password at Residence MG",
+    "actnm":"Account Creation Message",
+    "actnm1":"Within a few minutes a confirmation email will be sent to",
+    "actnm2":"Please check your inbox in order to confirm this account. ",
+    "prm":"Password recovery Message",
+    "prmt":"with instructions on how to recover your password",
+    "pserr":"Must contain at least one  number and one uppercase and lowercase letter, and at least 8 or more characters",
+    "unErr":"username already taken. please use another",
+    "phErr":"phone number aleady taken. please use another",
+    "emErr":"email aleady taken. please use another",
+    "filterBy":"Filter By City:",
+    "chooseBelow":"Choose Below",
+    "filter":"Filter",
+    "clearF":"Clear Filter",
+    "ghouses":"Guest Houses",
+    "noGhouses":"no guest houses yet.",
+    "click":"Click",
+    "classic":"classic",
+    "editHouse":{
+        "h1":"Edit House with ID:",
+        "warn1":"NB: Changes should be made in image fields only if neccesary "
+    },
+    "ask2DropHouse":"Do you want to delete house with Id",
+    "yes":"Yes",
+    "no":"No",
+    "reserveP":{
+        "name":"name",
+        "whatsapp number":"whatsapp number",
+        "book":"Reserve this House",
+        "mheading":"Make a reservation for House with Id: ",
+        "subh":"All Residence M.G guest houses are properly verified and secure. At any of our guest houses, you will enjoy additional quality services necessary for your stay. Fill The Form To Reserve Your Guest House.",
+        "formh":"Fill The Form To Reserve Your Guest House.",
+        "checkin":"Check In Date",
+        "checkout":"Check Out Date",
+        "time":"Check In time",
+        "telephone":"Provide a contact preferably a WhatsApp phone number.",
+        "other":"special request(We will do our best to satisfy your request. Without which, you shall be informed prior to your arrival)",
+        "send":"Submit",
+        "confirm":"Reservation successfull. You will get a notification soon",
+        "err":"An error occured. Please try again",
+        "number of guests":"number of guests",
+        "country":"country",
+        "success":"Reservation successfull! After further verification is made, you will be contacted in a maximum of 1 hour to finalize your reservation. "
+    },
+    "clearFilter":"Clear filter",
+    "house dtails":{
+        "price":"Price ",
+        "per nite":"per Night",
+        "type":"Type",
+        "address":"Address",
+        "facilities":"facilities",
+        "not allowed":"Not Allowed",
+        "description":"Description",
+        "book now":"Book now"
+
+    },
+    "new review":{
+        "name":"name",
+        "country":"country",
+        "heading":"Leave Us A Review!",
+        "message":"Message",
+        "rating":"Your Rating",
+        "submit":"submit",
+        "good resp":"thank you for your response",
+        "server err":"you have cannot write a review twice",
+        "bad resp":"an error occured. please try again",
+        "rate":"please give us a rating ",
+        "bad email":"Invalid email",
+        "reviews":"Client Reviews"
+        
+    },
+    "news":{
+        "title":"News",
+        "others":"you might also like"
+    },
+    "feedback":"Feedback",
+    "signup":{
+        "title":"List your property with us",
+        "p1":"We are the most trusted platform to bring you, quality clients, all over Cameroon and abroad. This process is free and will take less than 23 minutes to complete.",
+        "get_started":" Get started",
+        "p2":"Create a personal account for your property",
+        "telephone":"Telephone: (Preferably a WhatsApp number)"
+    },
+    "search by city":"Search your home by city",
+    "log_cred_err":"Wrong Email/Password",
+    "resetp":{
+        "title":"Forgotten Password? Enter Your Email Address Below",
+        "placeholder":"Type Your  email address here",
+        "no email":"Account not Found"
+    },
+    "drop_question":"Confirm below if you want to delete this apartment with Id ",
+    "settings":{
+        "edit_img":"Edit image below(Your image will be publicly displayed alongside your properties)",
+        "change_password":"change your password",
+        "description":"Your Description(Note: This will also be displayed alongside your properties):",
+        "placeholder":"Tell your future clients something promising. ex, I will make sure have a unique experience during your stay ",
+        "change_image":"click image or click here to edit image",
+        "pass_err":"Old Password is incorrect",
+        "img_desc":"NB: A headshot image will do( A headshot is an image that shows just your head to your shoulders)"
+
+    },
+    "filterby":{
+        "city":"City"
+    },
+    "session_exp":"Your session has expired. You have to log in again",
+    "by":"Posted by",
+    "net_err":"Network Error. Refresh page ",
+    "err":{
+        "net_err":"A network error has occured.",
+        "what_should_i_do":"What should I do?",
+        "do_1":"If you opened a page you can click the Refresh button below to refresh",
+        "do_2":"If you clicked a button,you can click the Dismiss button below to close this modal and try clicking that button again",
+        "refresh":"Refresh",
+        "dismiss":"Dismiss"
+    },
+    "account":"My account",
+    "set_profile_warn":{
+        "title":"Your profile is not complete",
+        "desc":"You need to make sure your profile picture and description are set. Both of them will be displayed alongside your property for clients to see. ",
+        "go_edit":"Take me to settings"
+    }
+}
